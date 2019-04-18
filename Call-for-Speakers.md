@@ -53,7 +53,7 @@ responsibilities?
 - A Leadership Philosophy or Management Style
 - Motivation & Retention
 - Onboarding
-- One o on Ones
+- One on Ones
 - Postmortems, Retrospectives
 - Performance Reviews
 - Setting Team Goals
