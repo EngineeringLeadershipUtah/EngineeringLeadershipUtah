@@ -10,31 +10,34 @@ groups: finding speakers. We've had a few people reach out with interest
 in speaking, so this document is to help show what we're looking for 
 (don't worry, it's nothing crazy).
 
+## Formats
+
 We have several formats that will work well for the meetup:
 
-Conversation - This is the easiest of them all: pick a topic to discuss, 
+**Conversation** - This is the easiest of them all: pick a topic to discuss, 
 and an "interviewer" will ask open-ended questions to facilitate an 
 engaging dialog with you. Following the semi-planned questions, we'll 
 include the audience and discussions. The only thing we need from you is 
 a topic you're passionate about and a phone call ahead of time to 
 brainstorm some questions.
 
-Presentation - You can prepare a presentation with slides and talk about 
+**Presentation** - You can prepare a presentation with slides and talk about 
 a subject with the group. Because of the casual nature of meetups, the 
 presentation can be as relaxed or formal as you'd like. Meetups are a 
 great way to trial run a presentation for a conference. You can plan on 
 anywhere from 40-60 minutes for your presentation. 
 
-Workshop - If you want something a little more interactive, we can do 
+**Workshop** - If you want something a little more interactive, we can do 
 that too! Prepare a workshop or training around a topic, and you will be 
 the facilitator. Workshops will require a good deal of preparation, but a 
 great way to pilot a training session you would like to give elsewhere.
 
 We're open to other ideas as well!
 
-What types of topics?
+## Potential Topics
 
 Here are just some ideas to inspire you:
+
 - Conflict Prevention and Conflict Resolution
 - Cultivating a Team, Organization, or Company Culture
 - Technical Leadership
@@ -50,7 +53,7 @@ responsibilities?
 - A Leadership Philosophy or Management Style
 - Motivation & Retention
 - Onboarding
-- One o on Ones
+- One on Ones
 - Postmortems, Retrospectives
 - Performance Reviews
 - Setting Team Goals
@@ -67,7 +70,10 @@ new engineering manager, and after three months you gave a presentation
 on "Things I learned my first three months of managing" that would be 
 fantastic!
 
-Ok, we've convinced you. What to do next? Go to the meetup page homepage, 
+## Getting on the Schedule
+
+Ok, we've convinced you. What to do next? Go to the 
+[meetup page homepage](https://www.meetup.com/Engineering-Leadership-Utah/), 
 on the right-hand side it will show Justin C. as an organizer, and click 
 "message" to send me a message. We can coordinate and schedule from 
 there.
